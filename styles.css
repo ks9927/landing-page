@@ -11,3 +11,50 @@
     --d-brown-orange: #a87008;
     --l-brown-orange: #f2bd99;
 }
+
+.header {
+    background-color: var(--tan);
+    color: var(--dark-brown);
+}
+
+.section-one {
+    background-color: var(--dark-brown);
+}
+.section-one h1 {
+    color: var(--l-brown-orange);
+}
+
+.section-one p {
+    color: var(--tan);
+}
+
+.section-one button {
+   background-color: var(--d-brown-orange);
+   color: var(--tan);
+}
+.section-two {
+    background-color: var(--tan);
+    color: var(--dark-brown);
+}
+
+.section-three {
+    background-color: var(--d-brown-orange);
+    color: var(--dark-brown)
+}
+
+.section-four {
+    background-color: var(--tan);
+}
+.action-box {
+    background-color: var(--dark-brown);
+    color: var(--tan);
+}
+
+.action-box button {
+    background-color: var(--d-brown-orange);
+    color: var(--tan)
+}
+.footer {
+    background-color: var(--dark-brown);
+    color: var(--tan);
+}
