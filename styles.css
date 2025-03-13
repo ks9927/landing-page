@@ -81,6 +81,10 @@ ul {
     align-items: center;
 }
 
+.card-photo {
+    height: auto;
+    width: 200px;
+}
 .cards p {
     margin-top: 10px;
 }
