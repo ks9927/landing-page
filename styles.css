@@ -84,9 +84,10 @@ ul {
     color: var(--tan);
     width: 500px;
     margin: auto;
-    padding: 15px;
+    padding: 20px;
     border-radius: 10px;
     display: flex;
+    justify-content: space-around;
 }
 
 .action-box button {
