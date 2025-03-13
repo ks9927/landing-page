@@ -52,11 +52,18 @@ ul {
    border-radius: 10px;
    border: solid 2px var(--d-brown-orange);
 }
+
 .section-two {
     background-color: var(--tan);
     color: var(--dark-brown);
+    padding: 20px;
+    text-align: center;
 }
 
+.cards {
+    display: flex;
+    gap: 15px;
+}
 .section-three {
     background-color: var(--l-brown-orange);
     color: var(--dark-brown)
