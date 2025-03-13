@@ -48,6 +48,9 @@ ul {
 .section-one button {
    background-color: var(--d-brown-orange);
    color: var(--tan);
+   padding: 10px;
+   border-radius: 10px;
+   border: solid 2px var(--d-brown-orange);
 }
 .section-two {
     background-color: var(--tan);
