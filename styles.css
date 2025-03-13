@@ -73,8 +73,7 @@ ul {
 }
 .cards {
     display: flex;
-    gap: 15px;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
 }
 
