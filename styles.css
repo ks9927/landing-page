@@ -21,8 +21,16 @@ body {
 .header {
     background-color: var(--tan);
     color: var(--dark-brown);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 }
-
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+}
 .section-one {
     background-color: var(--dark-brown);
 }
