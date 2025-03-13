@@ -66,6 +66,8 @@ ul {
 .cards {
     display: flex;
     gap: 15px;
+    justify-content: center;
+    align-items: center;
 }
 .section-three {
     background-color: var(--l-brown-orange);
