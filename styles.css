@@ -37,7 +37,10 @@ ul {
 .section-one {
     background-color: var(--dark-brown);
     display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    gap: 20px;
     padding: 25px;
 }
 .section-one h1 {
