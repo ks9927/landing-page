@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    /* Colors */
+    --tan: #e8cfc1;
+    --dark-brown: #523e27;
+    --d-brown-orange: #a87008;
+    --l-brown-orange: #f2bd99;
+}
