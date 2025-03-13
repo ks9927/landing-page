@@ -33,6 +33,9 @@ ul {
 }
 .section-one {
     background-color: var(--dark-brown);
+    display: flex;
+    text-align: center;
+    padding: 25px;
 }
 .section-one h1 {
     color: var(--l-brown-orange);
