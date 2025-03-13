@@ -62,6 +62,10 @@ ul {
    border: solid 2px var(--d-brown-orange);
 }
 
+.section-one img {
+    height: auto;
+    width: 300px;
+}
 .section-two {
     background-color: var(--tan);
     color: var(--dark-brown);
