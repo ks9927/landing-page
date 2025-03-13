@@ -45,10 +45,12 @@ ul {
 }
 .section-one h1 {
     color: var(--l-brown-orange);
+    margin-bottom: 10px;
 }
 
 .section-one p {
     color: var(--tan);
+    margin-bottom: 15px;
 }
 
 .section-one button {
@@ -65,12 +67,18 @@ ul {
     padding: 25px;
     text-align: center;
 }
-
+.section-two h2 {
+    margin-bottom: 10px;
+}
 .cards {
     display: flex;
     gap: 15px;
     justify-content: center;
     align-items: center;
+}
+
+.cards p {
+    margin-top: 10px;
 }
 .section-three {
     background-color: var(--l-brown-orange);
@@ -81,6 +89,7 @@ ul {
 
 .section-three .quote {
     font-style: italic;
+    margin-bottom: 10px;
 }
 
 .section-four {
@@ -97,7 +106,9 @@ ul {
     display: flex;
     justify-content: space-around;
 }
-
+.action-box h4 {
+    margin-bottom: 5px;
+}
 .action-box button {
     background-color: var(--d-brown-orange);
     color: var(--tan);
