@@ -134,7 +134,7 @@ ul {
     align-items: center;
 }
 
-@media  screen and (min-width: 400px) {
+@media  screen and (max-width: 600px) {
     .section-one,
     .header,
     .cards {
