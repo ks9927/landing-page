@@ -38,7 +38,7 @@ ul {
 .section-one {
     background-color: var(--dark-brown);
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     text-align: center;
     gap: 20px;
