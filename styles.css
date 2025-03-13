@@ -56,7 +56,7 @@ ul {
 .section-two {
     background-color: var(--tan);
     color: var(--dark-brown);
-    padding: 20px;
+    padding: 25px;
     text-align: center;
 }
 
@@ -66,9 +66,14 @@ ul {
 }
 .section-three {
     background-color: var(--l-brown-orange);
-    color: var(--dark-brown)
+    color: var(--dark-brown);
+    padding: 25px;
+    text-align: center;
 }
 
+.section-three .quote {
+    font-style: italic;
+}
 .section-four {
     background-color: var(--tan);
 }
