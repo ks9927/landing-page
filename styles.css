@@ -18,6 +18,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     flex: 1;
+    min-height: 100vh;
 }
  button {
     font-weight: bold;
