@@ -12,6 +12,12 @@
     --l-brown-orange: #f2bd99;
 }
 
+body {
+    font-weight: bold;
+}
+ button {
+    font-weight: bold;
+ }
 .header {
     background-color: var(--tan);
     color: var(--dark-brown);
