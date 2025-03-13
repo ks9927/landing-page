@@ -133,3 +133,27 @@ ul {
     justify-content: center;
     align-items: center;
 }
+
+@media  screen and (min-width: 400px) {
+    .section-one,
+    .header,
+    .cards {
+        flex-direction: column;
+    }
+
+    .cards {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .cards p {
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+
+    .action-box {
+        width: 250px;
+        flex-direction: column;
+        gap: 10px;
+    }
+}
