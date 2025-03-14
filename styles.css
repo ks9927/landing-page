@@ -103,13 +103,13 @@ main {
     background-color: var(--l-brown-orange);
     color: var(--dark-brown);
     padding: 75px;
-    text-align: center;
 }
 
 .section-three .quote {
     font-style: italic;
     margin-bottom: 10px;
     font-size: 32px;
+    text-align: center;
 }
 .section-three p {
     font-size: 25px;
