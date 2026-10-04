@@ -1,5 +1,6 @@
 # landing-page
 Landing page for the odin project
+Live link: https://ks9927.github.io/landing-page/
 
 # credits
 Hero Image: Photo by Jason Villanueva: https://www.pexels.com/photo/close-up-photography-of-cup-of-coffee-851555/
